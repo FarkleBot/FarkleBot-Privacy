@@ -23,7 +23,7 @@ The Bot is not intended for commercial distribution or use outside the KCD commu
 
 The current Privacy Policy can be found here:  
 
-* **ADD LINK HERE**
+https://farklebot.github.io/FarkleBot-Privacy/
 
 The policy explains what information is collected, how it is used, how long it is retained, and how users may request deletion of their data.
 
