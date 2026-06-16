@@ -1,4 +1,4 @@
-Privacy Policy 
+## Privacy Policy 
 
 Farkle Bot - Kingdom Come: Deliverance Discord Server 
 
@@ -6,7 +6,7 @@ Last Updated: June 16, 2026
 
 
 
-1 - Overview
+## Overview
 
 This Privacy Policy explains how the Farkle Bot ("the Bot") collects, uses, stores, and protects information obtained through its operation within the Kingdom Come: Deliverance (KCD) Discord server. 
 
@@ -16,7 +16,7 @@ By interacting with the Bot, you acknowledge and accept the data practices descr
 
 
  
-2 - Data We Collect
+## Data We Collect
 
 The Bot collects and stores only the minimum amount of information necessary to provide its gameplay and leaderboard functionality. 
 
@@ -52,7 +52,7 @@ The Bot only processes message content necessary to recognize and execute its ow
 
 
 
-3 - Purpose and Legal Basis for Processing
+## Purpose and Legal Basis for Processing
 
 The collected information is used solely for the following purposes: 
 
@@ -70,7 +70,7 @@ Where applicable, processing is based on the legitimate interest of operating th
 
 
  
-4 - Data Storage and Security 
+## Data Storage and Security 
 
 Bot data is stored locally in a private data file hosted on a private home server located in the United States. Access to the host system and stored gameplay data is limited to the bot developer and the KCD Discord server administrator responsible for operating the Bot. 
 
@@ -84,7 +84,7 @@ While no electronic storage system can be guaranteed to be completely secure, re
 
 
  
-5 - Data Sharing and Disclosure 
+## Data Sharing and Disclosure 
 
 The Bot does not sell, rent, license, trade, or otherwise share user data with third parties. 
 
@@ -94,7 +94,7 @@ The only information that may be visible to other Discord users is gameplay-rela
 
  
 
-6 - Data Retention
+## Data Retention
 
 Gameplay statistics are retained to preserve persistent player records and leaderboard functionality until the user requests deletion or the Bot is discontinued.  
 
@@ -104,7 +104,7 @@ If the Bot is permanently discontinued, all locally stored user data associated 
 
 
  
-7 - User Rights and Data Deletion 
+## User Rights and Data Deletion 
 
 Users may request to: 
 
@@ -124,7 +124,7 @@ Reasonable efforts will be made to process valid requests within 30 days of rece
 
 
  
-8 - Children's Privacy 
+## Children's Privacy 
 
 The Bot is not intended for use by children under the minimum age required by Discord's Terms of Service. The Bot does not knowingly collect information from users below the minimum age required by Discord's Terms of Service. 
 
@@ -132,7 +132,7 @@ If it is believed that a user under the applicable minimum age has interacted wi
 
 
  
-9 - Scope of Operation 
+## Scope of Operation 
 
 The Farkle Bot is designed exclusively for use within the Kingdom Come: Deliverance Discord community and is not intended for general public distribution or commercial deployment. 
 
@@ -142,7 +142,7 @@ Users should also review Discord's own Privacy Policy and Terms of Service for i
 
 
  
-10 - Contact Information 
+## Contact Information 
 
 For questions regarding this Privacy Policy, requests for access to stored information, or requests for data deletion, contact the server administrator via: 
 
@@ -153,7 +153,7 @@ Discord: @Eldar (Discord User ID: 625426907718090763)
 Requests will normally receive a response within 30 days. 
 
  
-11 - Compliance with Discord Policies 
+## Compliance with Discord Policies 
 
 The Bot is intended to operate in accordance with applicable Discord platform requirements, including but not limited to: 
 
@@ -169,7 +169,7 @@ Discord API data is accessed and processed solely for the operation of the Bot's
 
 
  
-12 - Changes to This Privacy Policy
+## Changes to This Privacy Policy
 
 This Privacy Policy may be updated periodically to reflect changes in the Bot's functionality, operational practices, or applicable legal and platform requirements. 
 
